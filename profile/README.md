@@ -5,7 +5,6 @@ In this organization we host multiple repositories which contain all the open so
 
  - In [`core`](https://github.com/eigenwallet/core) we maintain a monorepo which contains the code for the wallet, peer-to-peer network and atomic swaps
  - In [`vision`](https://github.com/eigenwallet/vision) we host the source code for our [website](https://eigenwallet.org)
- - In [`asb-docker-compose`](https://github.com/eigenwallet/asb-docker-compose) we provide accessable docker images for those interested in running a swap provider service
 
 Join our [Matrix space](https://matrix.to/#/#unstoppableswap-space:matrix.org) to follow our development more closely.
 
